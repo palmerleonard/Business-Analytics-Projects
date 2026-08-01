@@ -1,7 +1,5 @@
 # Business Analytics Projects
 
-## Overview
-
 This repository features a collection of class projects completed as part of a Business Analytics course at the University of Kentucky.
 
 The PDF slide decks included in this repository contain collaborative and course provided material, and I do not claim individual credit for all information presented within them.
